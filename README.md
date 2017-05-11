@@ -1,21 +1,34 @@
 ##  "Fever youthful, fever weeping."
 
-# I Like For You To Be Still
 
-I like for you to be still
-It is as though you are absent
-And you hear me from far away
-And my voice does not touch you
-It seems as though your eyes had flown away
-And it seems that a kiss had sealed your mouth
-As all things are filled with my soul
-You emerge from the things
-Filled with my soul
-You are like my soul
-A butterfly of dream
-And you are like the word: Melancholy
-I like for you to be still
-And you seem far away
+>I like for you to be still
+
+>It is as though you are absent  
+
+>And you hear me from far away  
+
+>And my voice does not touch you
+
+>It seems as though your eyes had flown away
+
+>And it seems that a kiss had sealed your mouth
+
+>As all things are filled with my soul  
+
+>You emerge from the things
+
+>Filled with my soul
+
+>You are like my soul
+
+>A butterfly of dream
+
+>And you are like the word: Melancholy
+
+>I like for you to be still
+
+>And you seem far away
+
 It sounds as though you are lamenting
 A butterfly cooing like a dove
 And you hear me from far away
