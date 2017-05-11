@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+##  "Fever youthful, fever weeping."
 
-You can use the [editor on GitHub](https://github.com/BorrisonHarry/chiang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# I Like For You To Be Still
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I like for you to be still
+It is as though you are absent
+And you hear me from far away
+And my voice does not touch you
+It seems as though your eyes had flown away
+And it seems that a kiss had sealed your mouth
+As all things are filled with my soul
+You emerge from the things
+Filled with my soul
+You are like my soul
+A butterfly of dream
+And you are like the word: Melancholy
+I like for you to be still
+And you seem far away
+It sounds as though you are lamenting
+A butterfly cooing like a dove
+And you hear me from far away
+And my voice does not reach you
+Let me come to be still in your silence
+And let me talk to you with your silence
+That is bright as a lamp
+Simple, as a ring
+You are like the night
+With its stillness and constellations
+Your silence is that of a star
+As remote and candid
+I like for you to be still
+It is as though you are absent
+Distant and full of sorrow
+So you would've died
+One word then,
+One smile is enough And I'm happy;
+Happy that it's not true.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BorrisonHarry/chiang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
