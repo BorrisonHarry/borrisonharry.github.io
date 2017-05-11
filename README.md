@@ -1,53 +1,29 @@
 ##  "Fever youthful, fever weeping."
 
 
->I like for you to be still
+>May you stay forever young,
 
->It is as though you are absent  
+>Forever young, forever young,
 
->And you hear me from far away  
+>May you stay forever young.
 
->And my voice does not touch you
+>May you grow up to be righteous,
 
->It seems as though your eyes had flown away
+>May you grow up to be true,
 
->And it seems that a kiss had sealed your mouth
+>May you always know the truth
 
->As all things are filled with my soul  
+>And see the lights surrounding you.
 
->You emerge from the things
+>May you always be courageous,
 
->Filled with my soul
+>Stand upright and be strong,
 
->You are like my soul
+>May you stay forever young,
 
->A butterfly of dream
+>Forever young, forever young,
 
->And you are like the word: Melancholy
-
->I like for you to be still
-
->And you seem far away
-
-It sounds as though you are lamenting
-A butterfly cooing like a dove
-And you hear me from far away
-And my voice does not reach you
-Let me come to be still in your silence
-And let me talk to you with your silence
-That is bright as a lamp
-Simple, as a ring
-You are like the night
-With its stillness and constellations
-Your silence is that of a star
-As remote and candid
-I like for you to be still
-It is as though you are absent
-Distant and full of sorrow
-So you would've died
-One word then,
-One smile is enough And I'm happy;
-Happy that it's not true.
+>May you stay forever young.
 
 
 
